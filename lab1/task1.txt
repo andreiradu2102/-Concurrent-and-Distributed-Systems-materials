@@ -1,0 +1,4 @@
+{
+  "status": "ok",
+  "proof": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ3aG8iOnsibnVtZSI6WyJBbmRyZWktR2FicmllbCBSYWR1Il0sImdydXBhIjpbIjM0MkMzIl19LCJkaWQiOiJ0YXNrMSJ9.uw57AWtegtLT70XT7XKIPD3BiNhcNKKenxnKD-UByE4"
+}
