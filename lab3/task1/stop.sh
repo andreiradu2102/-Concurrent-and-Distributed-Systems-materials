@@ -1,0 +1,1 @@
+docker stop task1_c && docker rm task1_c
