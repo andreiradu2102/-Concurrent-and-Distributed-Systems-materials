@@ -1,0 +1,14 @@
+version: "3.9"
+services:
+  redis:
+    image: redis:7-alpine
+  web:
+    build: .
+    environment:
+      REDIS_HOST: redis
+      REDIS_PORT: "6379"
+      WINDOW_SECONDS: "10"
+    ports:
+      - "8000:8000"
+    depends_on:
+      - redis
